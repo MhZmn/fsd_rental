@@ -1,5 +1,5 @@
 # At_rental
-Simple Car Rental System By FiveM Scripts | Development (Alireza_At)
+Simple Car Rental System By FiveM Scripts Development
 
 
 Discord: https://discord.gg/jdduv7y5GM
